@@ -1,2 +1,2 @@
 curl https://intoli.com/install-google-chrome.sh | bash
-sudo yum install google-chrome-stable
+sudo apt-get install google-chrome-stable
